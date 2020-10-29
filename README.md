@@ -5,7 +5,7 @@
 
 
 
-## <img src="react.svg" width="15px"> Librarys
+## Librarys
 
 For navegation links:
 >react-router-dom
@@ -46,7 +46,7 @@ $ npm start
 :x: Create a team <br>
 :x: Edit a team <br>
 :x: Remove a team <br>
-:x: White tests <br>
+:x: Write tests <br>
 
 ## Paths
 
